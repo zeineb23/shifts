@@ -1,6 +1,6 @@
 # shifts
 
-*********Files content breafly explained**********
+*********Files content breafly explained
 
 We have 4 files :
 
@@ -12,7 +12,8 @@ We have 4 files :
 -Shifts.js : Lists the shifts inserted into the database.
 
 
-****************Issues********************
+****************Issues
+
 -The file Formulaire.js contains a function called " UploadImg" that converts the shift icon to a base64 format, then inserts it into the database through the "handleSubmit" function.
 
 =====> This step is working just fine 
